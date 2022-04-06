@@ -1,4 +1,4 @@
-# QulaifierAnnotationSpring
+# Qulaifier Annotation in Spring
 The @Autowired annotation is a great way of making the need to inject a dependency in Spring explicit. Although it's useful, there are use cases for which this annotation alone isn't enough for Spring to understand which bean to inject.
 
 When we have multiple beans with same names we go for @qulaifier Annotation
